@@ -1,6 +1,7 @@
 
 # Kou
 A fairly simple Tray Mount 60%, straight cut side-profile with angled back for the classic homage of early custom cases.
+
 ![enter image description here](https://cdn.discordapp.com/attachments/1150502162774888469/1150502226037571746/Tray_60_2023-Sep-10_06-11-29PM-000_CustomizedView23109319146.png)
 
 ## **Features**
