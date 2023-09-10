@@ -21,7 +21,7 @@ A fairly simple Tray Mount 60%, straight cut side-profile with angled back for t
  ## Notes
  - All files are to be used at your own risk
  - Disclaimer that i have not prototyped this and there are possibilities that it will not work. i am not responsible for replacing faulty products
- - Assembled parts are currently taken from 60HE, although any universal 60% plate will fit to this design.
+ - Assembled parts are currently taken from 60HE, although any universal 60% mx assembly will fit to this design.
  
 ## Parts & Compatibility
 **Parts**
